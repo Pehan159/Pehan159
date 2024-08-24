@@ -1,4 +1,4 @@
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="Coding"
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Coding">
 
 <h1 align="center">Hi 👋, I'm Pehan Rathnayake</h1>
 <h3 align="center">B.Sc in Computer Science</h3>
